@@ -1,4 +1,4 @@
-# EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# Ex-7-Implement-DES-Encryption-and-Decryption
 
 ## Aim:
 
